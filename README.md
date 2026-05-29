@@ -62,7 +62,7 @@ npx -y http-server -p 3000
 
 ### Step 2: Open in your Browser
 Navigate to the following link to interact with the Kisan Cold Chain platform:
-👉 **[http://localhost:3000](http://localhost:3000)**
+👉 **https://kisancoldchain.netlify.app/**
 
 ---
 
